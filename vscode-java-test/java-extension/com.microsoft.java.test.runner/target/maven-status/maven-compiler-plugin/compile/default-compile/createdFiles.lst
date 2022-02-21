@@ -1,0 +1,16 @@
+com/microsoft/java/test/runner/Launcher.class
+com/microsoft/java/test/runner/common/MessageUtils.class
+com/microsoft/java/test/runner/common/TestOutputStream$SingletonHelper.class
+com/microsoft/java/test/runner/common/TestMessageType.class
+com/microsoft/java/test/runner/common/TestMessageItem.class
+com/microsoft/java/test/runner/testng/TestNGListener.class
+com/microsoft/java/test/runner/testng/TestNGRunner.class
+com/microsoft/java/test/runner/common/ITestLauncher.class
+com/microsoft/java/test/runner/common/TestOutputStream.class
+com/microsoft/java/test/runner/common/Pair.class
+com/microsoft/java/test/runner/exceptions/ParameterException.class
+com/microsoft/java/test/runner/common/TestMessageConstants.class
+com/microsoft/java/test/runner/common/TestRunnerMessageHelper.class
+com/microsoft/java/test/runner/testng/TestNGLauncher.class
+com/microsoft/java/test/runner/common/TestStream.class
+com/microsoft/java/test/runner/common/TestOutputStream$1.class

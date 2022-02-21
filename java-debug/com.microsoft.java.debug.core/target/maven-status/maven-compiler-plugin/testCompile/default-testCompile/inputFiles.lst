@@ -1,0 +1,17 @@
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/ProviderContextTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/CharacterFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/SimpleTypeFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/DebugSessionFactory.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/BaseJdiTestCase.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/variables/VariableUtilsTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/NullObjectFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ArrayObjectFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ClassObjectFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/StringObjectFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/AbstractJdiTestCase.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/BooleanFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ObjectFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/TypeIdentifiersTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/CompileUtils.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/NumericFormatterTest.java
+/opt/neovim-dap/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/LRUCacheTest.java

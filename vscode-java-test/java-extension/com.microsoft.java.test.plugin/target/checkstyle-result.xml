@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/handler/ClasspathUpdateHandler.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/handler/TestDelegateCommandHandler.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/launchers/JUnitLaunchConfiguration.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/launchers/JUnitLaunchConfigurationDelegate.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/launchers/JUnitLaunchConfigurationTemplate.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/launchers/JUnitLaunchUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/model/JavaTestItem.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/model/Option.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/model/TestKind.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/model/TestLevel.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/provider/TestKindProvider.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/searcher/BaseFrameworkSearcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/searcher/JUnit4TestSearcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/searcher/JUnit5TestSearcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/searcher/TestFrameworkSearcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/searcher/TestNGTestSearcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/JUnitPlugin.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/ProjectTestUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/TestFrameworkUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/TestGenerationUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/TestItemUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/TestNavigationUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.plugin/src/main/java/com/microsoft/java/test/plugin/util/TestSearchUtils.java">
+</file>
+</checkstyle>

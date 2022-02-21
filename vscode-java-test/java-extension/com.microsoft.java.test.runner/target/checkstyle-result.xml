@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/Launcher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/ITestLauncher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/MessageUtils.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/Pair.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageConstants.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageItem.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageType.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestOutputStream.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestRunnerMessageHelper.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestStream.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/exceptions/ParameterException.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGLauncher.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGListener.java">
+</file>
+<file name="/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGRunner.java">
+</file>
+</checkstyle>

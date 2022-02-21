@@ -1,0 +1,16 @@
+#Thu Feb 17 23:57:24 CST 2022
+configuration*?=8A5349874AC182B09A3C297F01625A5AA8FC484E
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageType.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/MessageUtils.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/ITestLauncher.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGLauncher.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestOutputStream.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGRunner.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestRunnerMessageHelper.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/Pair.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/exceptions/ParameterException.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/testng/TestNGListener.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestStream.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/Launcher.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageConstants.java=1644915251391
+/opt/neovim-dap/vscode-java-test/java-extension/com.microsoft.java.test.runner/src/main/java/com/microsoft/java/test/runner/common/TestMessageItem.java=1644915251391
